@@ -136,7 +136,7 @@ Interested in collaborating?
 **Tech-X-Ventures**
 
 - GitHub: [github.com/Tech-X-Ventures](https://github.com/Tech-X-Ventures)
-- Website: Coming soon
+- Website: [Tech-x-Ventures](https://tech-x-ventures.github.io/Tech-X-Ventures/)
 - LinkedIn: Coming soon
 - Email: Coming soon
 
