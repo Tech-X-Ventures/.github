@@ -138,7 +138,8 @@ Interested in collaborating?
 - GitHub: [github.com/Tech-X-Ventures](https://github.com/Tech-X-Ventures)
 - Website: [Tech-x-Ventures](https://tech-x-ventures.github.io/Tech-X-Ventures/)
 - LinkedIn: Coming soon
-- Email: Coming soon
+- Email: [Tech-X-Ventures](mailto:TechXventures@outlook.com) — TechXventures@outlook.com
+
 
 ---
 
