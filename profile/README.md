@@ -86,25 +86,7 @@ Our selected technology ecosystem includes:
 
 ## 🏗️ Our Products & Projects
 
-### 1. Tech-X-Ventures AI
-
-**Building an intelligent multi-agent AI company system.**
-
-An ambitious project designed around an AI Assistant CEO that coordinates specialized AI agents across multiple departments.
-
-Planned capabilities:
-
-- AI-powered task delegation
-- Multi-agent collaboration
-- Department-based intelligence
-- Automated workflows
-- Shared knowledge and memory
-- Human approval for important external actions
-- Centralized management dashboard
-
-<sub>Status: Planned / In development</sub>
-
-### 2. Pocket
+### 1.Pocket
 
 **A digital product initiative by Tech-X-Ventures.**
 
