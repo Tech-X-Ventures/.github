@@ -1,6 +1,8 @@
- <div align="center">
+<div align="center">
 
-# ⚡ TECH-X-VENTURES
+<img src="./assets/logo.jpg" alt="Tech-X-Ventures Logo" width="120" style="border-radius: 12px;"/>
+
+# TECH-X-VENTURES
 
 ### INNOVATE BEYOND LIMITS.
 
@@ -86,7 +88,7 @@ Our selected technology ecosystem includes:
 
 ## 🏗️ Our Products & Projects
 
-### 1.Pocket
+### 1. Pocket
 
 **A digital product initiative by Tech-X-Ventures.**
 
@@ -140,12 +142,13 @@ Interested in collaborating?
 - LinkedIn: Coming soon
 - Email: [TechXventures@outlook.com](mailto:TechXventures@outlook.com)
 
-
 ---
 
 <div align="center">
 
-### ⚡ TECH-X-VENTURES
+<img src="./assets/logo.jpg" alt="Tech-X-Ventures Logo" width="80" style="border-radius: 10px;"/>
+
+### TECH-X-VENTURES
 
 **INNOVATE BEYOND LIMITS.**
 
